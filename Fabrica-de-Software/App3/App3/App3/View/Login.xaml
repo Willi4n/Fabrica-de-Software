@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.View.Login">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="White">
+    <Entry Text="{Binding Email}" HorizontalTextAlignment="Center" BackgroundColor="Gray" HeightRequest="40" Keyboard="Email" Placeholder="e-mail"></Entry>
+    <Entry Text="{Binding Senha}" HorizontalTextAlignment="Center" BackgroundColor="Gray" IsPassword="true" HeightRequest="40" Placeholder="password"></Entry>
+    <Button Command="{Binding LoginComand}" Text="Login"></Button>
+    <Button Text="Register"></Button>
+  </StackLayout>
+</ContentPage>
