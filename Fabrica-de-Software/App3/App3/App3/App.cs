@@ -13,7 +13,9 @@ namespace App3
         public App()
         {
             // The root page of your application
-            MainPage = new Login();
+            DependencyService.Register<ViewModel.Services.IMessageService, View.Services.MessageService>();
+            DependencyService.Register<ViewModel.Services.INavigationService, View.Services.NavigationService>();
+            MainPage = new NavigationPage(new Login());
         }
 
         protected override void OnStart()

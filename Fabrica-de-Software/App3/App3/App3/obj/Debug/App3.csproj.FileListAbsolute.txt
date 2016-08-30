@@ -13,3 +13,18 @@ C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.View.M
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.dll.mdb
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\bin\Debug\App3.dll.mdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\App3.dll
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\App3.pdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\Xamarin.Forms.Platform.dll
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.View.Login.xaml.g.cs
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.View.Register.xaml.g.cs
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.View.Main.xaml.g.cs
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.dll
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.pdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.dll.mdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\App3.dll.mdb

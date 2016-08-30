@@ -40,6 +40,8 @@
     <Compile Include="ViewModel\LoginVM.cs" />
     <Compile Include="ViewModel\MainVM.cs" />
     <Compile Include="ViewModel\RegisterVM.cs" />
+    <Compile Include="ViewModel\Services\IMessageService.cs" />
+    <Compile Include="ViewModel\Services\INavigationService.cs" />
     <Compile Include="ViewModel\ViewModelBase.cs" />
     <Compile Include="View\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
@@ -50,6 +52,8 @@
     <Compile Include="View\Register.xaml.cs">
       <DependentUpon>Register.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\Services\MessageService.cs" />
+    <Compile Include="View\Services\NavigationService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
