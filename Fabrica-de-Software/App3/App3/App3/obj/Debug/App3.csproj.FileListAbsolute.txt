@@ -10,5 +10,6 @@ C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.pdb
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.View.Login.xaml.g.cs
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.View.Register.xaml.g.cs
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.View.Main.xaml.g.cs
+C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\obj\Debug\App3.dll.mdb
 C:\Users\aluno.SENAC\Desktop\Nova pasta (5)\App3\App3\App3\bin\Debug\App3.dll.mdb

@@ -7,6 +7,6 @@
     <Entry Text="{Binding Email}" HorizontalTextAlignment="Center" BackgroundColor="Gray" HeightRequest="40" Keyboard="Email" Placeholder="e-mail"></Entry>
     <Entry Text="{Binding Senha}" HorizontalTextAlignment="Center" BackgroundColor="Gray" IsPassword="true" HeightRequest="40" Placeholder="password"></Entry>
     <Button Command="{Binding LoginComand}" Text="Login"></Button>
-    <Button Text="Register"></Button>
+    <Button Command="{Binding RegisterComand}" Text="Register"></Button>
   </StackLayout>
 </ContentPage>

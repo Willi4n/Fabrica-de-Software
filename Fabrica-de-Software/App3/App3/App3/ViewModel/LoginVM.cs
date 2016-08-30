@@ -3,17 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace App3.ViewModel
 {
    
-    class LoginVM
+    class LoginVM : ViewModelBase
     {
         private string email;        
         public string Email
         {
             get { return email; }
-            set { email = value; }
+            set {
+                email = value;
+                Notify("Email");
+            }
         }
 
         private string senha;
@@ -21,18 +26,38 @@ namespace App3.ViewModel
         public string Senha
         {
             get { return senha; }
-            set { senha = value; }
+            set {
+                senha = value;
+                Notify("Semha");
+            }
         }
 
+        public ICommand LoginComand
+        {
+            get;
+            set;
+        }
+        public ICommand RegisterComand
+        {
+            get;
+            set;
+        }
 
         public LoginVM()
         {
-
+            this.LoginComand = new Command(this.Login);
         }
 
-        public void LoginComand(object a, EventArgs e)
+        public void Login()
         {
-            this.Email = "tesdfsd";
+            if (this.email.Equals("adm") && this.senha.Equals("123"))
+            {
+                
+            }
+            else
+            {
+
+            }
         }
     }
 }
