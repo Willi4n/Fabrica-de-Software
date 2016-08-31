@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="APP" android:icon="@drawable/sharingan" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+  <application android:label="APP" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="App3" android:name="md59eecafe8280a26988b2a376da1e93fe7.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

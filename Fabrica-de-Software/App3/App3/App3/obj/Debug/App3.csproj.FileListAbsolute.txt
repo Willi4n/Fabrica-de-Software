@@ -25,6 +25,9 @@ C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.View.Register.xaml.g
 C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.View.Main.xaml.g.cs
 C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.dll
 C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.pdb
-C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.dll.mdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\App3.dll.mdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.dll.mdb
+C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\App3.dll.mdb
 C:\GitHub\Fabrica-de-Software\App3\App3\App3\obj\Debug\App3.dll.mdb
 C:\GitHub\Fabrica-de-Software\App3\App3\App3\bin\Debug\App3.dll.mdb
